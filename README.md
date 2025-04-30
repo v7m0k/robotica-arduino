@@ -1,2 +1,2 @@
 # robotica-arduino
-Projetos de Robótica com Arduino da UNIFAI (sketches, esquemáticos, bibliotecas)
+Projetos de Robótica com Arduino (sketches, esquemáticos, bibliotecas)
